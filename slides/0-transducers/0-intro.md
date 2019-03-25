@@ -165,5 +165,3 @@ program([1, 2, 3, 4]) // 124
 Implementar transducers para entender transducers
 
 ![alt text](https://cdn-images-1.medium.com/fit/t/1600/672/0*n-2bW82Z6m6U2bij.jpeg)
-
----
